@@ -17,7 +17,7 @@
   * [ChatOps](#chatops)
   * [Client Management](#client-management)
   * [Cloning](#cloning)
-  * [Cloud Computing](#cloud-computing)//puppet.com/mcollective
+  * [Cloud Computing](#cloud-computing)
   * [Cloud Orchestration](#cloud-orchestration)
   * Cloud Storage: [see awesome-selfhosted#file-transfersynchronization](https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization)
   * [Code Review](#code-review)
